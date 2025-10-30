@@ -10,7 +10,7 @@ export default function Home() {
         <Card 
           title="Sample Property" 
           description="A beautiful place to stay"
-          image="/assets/sample.jpg"
+          image="/assets/image 3.png"
         />
       </div>
       
